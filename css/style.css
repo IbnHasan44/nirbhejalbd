@@ -743,6 +743,9 @@ body{
     .animationCardMax {
         padding: 3rem 0rem;
     }
+    .single-cta {
+        justify-content: start;
+    }
     .qualityMain {
         display: flex;
         gap: 3rem;
